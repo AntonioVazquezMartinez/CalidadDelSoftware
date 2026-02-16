@@ -1,0 +1,971 @@
+[
+    {
+        "Product": "Laptop RGB 119",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop Oficina 15",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 98",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 3",
+        "Quantity": 2
+    },
+    {
+        "Product": "USB Port\u00e1til 100",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 44",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 83",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 6",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop B\u00e1sico 99",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 1TB 30",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 46",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Port\u00e1til 118",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Port\u00e1til 24",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet B\u00e1sico 8",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 51",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Inal\u00e1mbrico 68"
+    },
+    {
+        "Product": "Cables 4K 81",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 117",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 29",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 4K 116",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 20",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 127",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Pro 88",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Inal\u00e1mbrico 90"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 59",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 110",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 4K 42",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet RGB 139",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora RGB 55",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Oficina 94",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 4K 116",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora 4K 107",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Gaming 105",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Pro 140",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 71",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 49",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Gaming 105",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Inal\u00e1mbrico 121",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Inal\u00e1mbrico 85",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop 1TB 130",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 73",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 6",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB Oficina 36",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor RGB 53",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 44",
+        "Quantity": 5
+    },
+    {
+        "Product": "Cables Ergon\u00f3mico 38",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Oficina 125",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Inal\u00e1mbrico 89",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 48",
+        "Quantity": 4
+    },
+    {
+        "Product": "Disco Duro 4K 138"
+    },
+    {
+        "Product": "Teclado 1TB 113",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop RGB 119",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB B\u00e1sico 52",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Inal\u00e1mbrico 45",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Oficina 104",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos 1TB 50",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse RGB 58",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Inal\u00e1mbrico 89",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop Oficina 15",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Ergon\u00f3mico 65",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Inal\u00e1mbrico 86",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Port\u00e1til 24",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Inal\u00e1mbrico 45",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Inal\u00e1mbrico 85",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 108",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 65",
+        "Quantity": 4
+    },
+    {
+        "Product": "Cables Gaming 63",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Oficina 146",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 54",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Ergon\u00f3mico 57",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Oficina 93",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Ergon\u00f3mico 123",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 16",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop Oficina 34",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 40",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 7",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 84",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Oficina 120",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB Port\u00e1til 100"
+    },
+    {
+        "Product": "Laptop Oficina 15",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet RGB 128",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos 1TB 133",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Gaming 76",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado RGB 61",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Inal\u00e1mbrico 60",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 85",
+        "Quantity": 1
+    },
+    {
+        "Product": "Cables Oficina 120",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 51",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop Pro 114",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 89",
+        "Quantity": 3
+    },
+    {
+        "Product": "Aud\u00edfonos Port\u00e1til 19",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 1",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 46",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB 1TB 115",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Oficina 146",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 40",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB 1TB 56",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Oficina 78",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 73",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 99",
+        "Quantity": 2
+    },
+    {
+        "Product": "Aud\u00edfonos Ergon\u00f3mico 57",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 29",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Ergon\u00f3mico 65",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Inal\u00e1mbrico 86",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 84",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB 4K 75",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor 4K 87",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Inal\u00e1mbrico 129",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora 4K 107",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 1TB 131",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Inal\u00e1mbrico 60",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Pro 67",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora B\u00e1sico 132",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro RGB 66",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB 4K 75",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse 1TB 109",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora RGB 55",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 127",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Oficina 104",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Oficina 125",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Inal\u00e1mbrico 141",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Ergon\u00f3mico 33",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 49",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 40"
+    },
+    {
+        "Product": "Laptop B\u00e1sico 147",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 98",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 49",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Pro 79",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro Inal\u00e1mbrico 89",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB 1TB 115",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Port\u00e1til 24",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB B\u00e1sico 52",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Oficina 80",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet B\u00e1sico 8",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 1TB 131",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 135",
+        "Quantity": 5
+    },
+    {
+        "Product": "Producto Inexistente 136",
+        "Quantity": 5
+    },
+    {
+        "Product": "Laptop Pro 114",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Oficina 26",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop RGB 119",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 1TB 131",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 4K 138",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Oficina 80",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos 1TB 50",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Ergon\u00f3mico 123",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 16",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 127",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Inal\u00e1mbrico 90",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado 4K 40",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Port\u00e1til 84",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Oficina 22",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Port\u00e1til 19",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Inal\u00e1mbrico 90",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Pro 54",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Port\u00e1til 136",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables B\u00e1sico 97",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 4K 42",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 157",
+        "Quantity": 5
+    },
+    {
+        "Product": "Disco Duro Inal\u00e1mbrico 145",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Ergon\u00f3mico 65",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Producto Inexistente 160",
+        "Quantity": 1
+    },
+    {
+        "Product": "Impresora Ergon\u00f3mico 123",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Gaming 73",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Inal\u00e1mbrico 143",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop 1TB 130",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 83"
+    },
+    {
+        "Product": "USB Port\u00e1til 100",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables B\u00e1sico 97",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop B\u00e1sico 147",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 4K 81",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 6",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB Ergon\u00f3mico 21",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Port\u00e1til 23",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Tablet Oficina 93",
+        "Quantity": 5,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Ergon\u00f3mico 123",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Ergon\u00f3mico 38",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Ergon\u00f3mico 33"
+    },
+    {
+        "Product": "Tablet RGB 128",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 4K 138",
+        "Quantity": 4,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Impresora Gaming 69",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor Ergon\u00f3mico 33",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables Gaming 63"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 127",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Inal\u00e1mbrico 121",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 4K 81",
+        "Quantity": 9,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos Ergon\u00f3mico 57",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 1TB 30",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Laptop B\u00e1sico 99",
+        "Quantity": 3,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "USB Pro 13",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Pro 79",
+        "Quantity": 8,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 1TB 131",
+        "Quantity": 7,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Teclado Port\u00e1til 127"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 95",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Disco Duro 4K 138",
+        "Quantity": 10,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Monitor 4K 87"
+    },
+    {
+        "Product": "USB 1TB 56",
+        "Quantity": 2,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Aud\u00edfonos B\u00e1sico 83",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse B\u00e1sico 95",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Mouse Pro 88",
+        "Quantity": 6,
+        "Date": "2024-01-01"
+    },
+    {
+        "Product": "Cables 4K 81",
+        "Quantity": 1,
+        "Date": "2024-01-01"
+    }
+]

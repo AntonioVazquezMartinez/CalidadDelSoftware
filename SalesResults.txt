@@ -1,0 +1,5 @@
+TOTAL SALES REPORT
+------------------------------
+Total Cost: $769,365.53
+Execution Time: 0.0025 seconds
+------------------------------

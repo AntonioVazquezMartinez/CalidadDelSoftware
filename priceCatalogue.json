@@ -1,0 +1,752 @@
+[
+    {
+        "title": "Teclado Gaming 1",
+        "price": 803.42,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Inal\u00e1mbrico 2",
+        "price": 1466.48,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor B\u00e1sico 3",
+        "price": 1205.59,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables B\u00e1sico 4",
+        "price": 142.79,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Port\u00e1til 5",
+        "price": 634.32,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos B\u00e1sico 6",
+        "price": 183.48,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 4K 7",
+        "price": 584.36,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet B\u00e1sico 8",
+        "price": 1427.37,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB 4K 9",
+        "price": 515.84,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet RGB 10",
+        "price": 776.72,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Port\u00e1til 11",
+        "price": 801.31,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse 1TB 12",
+        "price": 631.39,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Pro 13",
+        "price": 521.1,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Gaming 14",
+        "price": 720.38,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Oficina 15",
+        "price": 261.53,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse B\u00e1sico 16",
+        "price": 450.91,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora 4K 17",
+        "price": 292.7,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Pro 18",
+        "price": 327.94,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Port\u00e1til 19",
+        "price": 393.81,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos B\u00e1sico 20",
+        "price": 397.82,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Ergon\u00f3mico 21",
+        "price": 1277.7,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Oficina 22",
+        "price": 1428.0,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Port\u00e1til 23",
+        "price": 1451.24,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Port\u00e1til 24",
+        "price": 1223.51,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Oficina 25",
+        "price": 582.34,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Oficina 26",
+        "price": 956.88,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Pro 27",
+        "price": 11.88,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Ergon\u00f3mico 28",
+        "price": 1097.29,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse B\u00e1sico 29",
+        "price": 1124.28,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables 1TB 30",
+        "price": 390.71,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Pro 31",
+        "price": 548.48,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor 4K 32",
+        "price": 292.77,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Ergon\u00f3mico 33",
+        "price": 1292.99,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Oficina 34",
+        "price": 1425.75,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Inal\u00e1mbrico 35",
+        "price": 304.95,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Oficina 36",
+        "price": 1450.8,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse 1TB 37",
+        "price": 975.1,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Ergon\u00f3mico 38",
+        "price": 1465.08,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Oficina 39",
+        "price": 47.4,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 4K 40",
+        "price": 1337.29,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Gaming 41",
+        "price": 92.26,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro 4K 42",
+        "price": 310.72,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado RGB 43",
+        "price": 777.11,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Pro 44",
+        "price": 1183.51,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Inal\u00e1mbrico 45",
+        "price": 492.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Pro 46",
+        "price": 497.45,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Inal\u00e1mbrico 47",
+        "price": 1068.18,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Oficina 48",
+        "price": 1332.02,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 4K 49",
+        "price": 1366.54,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos 1TB 50",
+        "price": 494.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Gaming 51",
+        "price": 1184.28,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB B\u00e1sico 52",
+        "price": 1038.1,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor RGB 53",
+        "price": 251.3,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Pro 54",
+        "price": 1339.74,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora RGB 55",
+        "price": 347.58,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB 1TB 56",
+        "price": 1435.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Ergon\u00f3mico 57",
+        "price": 156.39,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse RGB 58",
+        "price": 1483.09,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Port\u00e1til 59",
+        "price": 1051.38,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Inal\u00e1mbrico 60",
+        "price": 1245.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado RGB 61",
+        "price": 136.65,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse 4K 62",
+        "price": 1387.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Gaming 63",
+        "price": 1238.87,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Pro 64",
+        "price": 1496.45,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Ergon\u00f3mico 65",
+        "price": 1464.51,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro RGB 66",
+        "price": 810.18,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Pro 67",
+        "price": 1475.75,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Inal\u00e1mbrico 68",
+        "price": 667.58,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Gaming 69",
+        "price": 366.94,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Gaming 70",
+        "price": 362.84,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Port\u00e1til 71",
+        "price": 1444.7,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro B\u00e1sico 72",
+        "price": 495.65,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Gaming 73",
+        "price": 320.55,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos 1TB 74",
+        "price": 335.45,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB 4K 75",
+        "price": 405.01,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Gaming 76",
+        "price": 75.33,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Inal\u00e1mbrico 77",
+        "price": 279.73,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Oficina 78",
+        "price": 721.69,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Pro 79",
+        "price": 221.6,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Oficina 80",
+        "price": 1384.26,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables 4K 81",
+        "price": 87.78,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet RGB 82",
+        "price": 409.21,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos B\u00e1sico 83",
+        "price": 580.38,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Port\u00e1til 84",
+        "price": 59.86,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Inal\u00e1mbrico 85",
+        "price": 169.29,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Inal\u00e1mbrico 86",
+        "price": 766.95,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor 4K 87",
+        "price": 780.08,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Pro 88",
+        "price": 342.19,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Inal\u00e1mbrico 89",
+        "price": 391.97,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Inal\u00e1mbrico 90",
+        "price": 121.24,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro B\u00e1sico 91",
+        "price": 1004.54,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro B\u00e1sico 92",
+        "price": 191.31,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Oficina 93",
+        "price": 172.56,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Oficina 94",
+        "price": 21.18,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse B\u00e1sico 95",
+        "price": 1230.27,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos RGB 96",
+        "price": 497.06,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables B\u00e1sico 97",
+        "price": 521.55,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Port\u00e1til 98",
+        "price": 990.64,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop B\u00e1sico 99",
+        "price": 354.22,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Port\u00e1til 100",
+        "price": 181.55,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado RGB 101",
+        "price": 630.76,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 1TB 102",
+        "price": 1332.17,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro RGB 103",
+        "price": 1137.9,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Oficina 104",
+        "price": 1263.34,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Gaming 105",
+        "price": 1487.4,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos Ergon\u00f3mico 106",
+        "price": 772.31,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora 4K 107",
+        "price": 958.6,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Pro 108",
+        "price": 42.96,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse 1TB 109",
+        "price": 310.36,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 4K 110",
+        "price": 487.7,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Ergon\u00f3mico 111",
+        "price": 124.36,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop RGB 112",
+        "price": 229.01,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado 1TB 113",
+        "price": 439.11,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop Pro 114",
+        "price": 568.76,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB 1TB 115",
+        "price": 1211.72,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables 4K 116",
+        "price": 478.35,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Pro 117",
+        "price": 906.78,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor Port\u00e1til 118",
+        "price": 1062.92,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop RGB 119",
+        "price": 882.86,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Oficina 120",
+        "price": 112.02,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Inal\u00e1mbrico 121",
+        "price": 100.66,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet 4K 122",
+        "price": 395.25,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Ergon\u00f3mico 123",
+        "price": 1300.51,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Port\u00e1til 124",
+        "price": 314.99,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Oficina 125",
+        "price": 1432.43,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora B\u00e1sico 126",
+        "price": 903.26,
+        "type": "Hardware"
+    },
+    {
+        "title": "Teclado Port\u00e1til 127",
+        "price": 1070.5,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet RGB 128",
+        "price": 720.98,
+        "type": "Hardware"
+    },
+    {
+        "title": "Mouse Inal\u00e1mbrico 129",
+        "price": 273.61,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop 1TB 130",
+        "price": 1477.75,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro 1TB 131",
+        "price": 179.26,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora B\u00e1sico 132",
+        "price": 466.47,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos 1TB 133",
+        "price": 366.26,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB 4K 134",
+        "price": 1115.01,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Inal\u00e1mbrico 135",
+        "price": 1424.61,
+        "type": "Hardware"
+    },
+    {
+        "title": "Cables Port\u00e1til 136",
+        "price": 1378.85,
+        "type": "Hardware"
+    },
+    {
+        "title": "Aud\u00edfonos 1TB 137",
+        "price": 266.02,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro 4K 138",
+        "price": 420.85,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet RGB 139",
+        "price": 205.34,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Pro 140",
+        "price": 1001.11,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Inal\u00e1mbrico 141",
+        "price": 819.56,
+        "type": "Hardware"
+    },
+    {
+        "title": "USB Oficina 142",
+        "price": 1369.19,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Inal\u00e1mbrico 143",
+        "price": 859.83,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop B\u00e1sico 144",
+        "price": 521.16,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Inal\u00e1mbrico 145",
+        "price": 1081.96,
+        "type": "Hardware"
+    },
+    {
+        "title": "Disco Duro Oficina 146",
+        "price": 710.93,
+        "type": "Hardware"
+    },
+    {
+        "title": "Laptop B\u00e1sico 147",
+        "price": 608.31,
+        "type": "Hardware"
+    },
+    {
+        "title": "Monitor RGB 148",
+        "price": 1297.6,
+        "type": "Hardware"
+    },
+    {
+        "title": "Tablet Oficina 149",
+        "price": 1383.02,
+        "type": "Hardware"
+    },
+    {
+        "title": "Impresora Oficina 150",
+        "price": 636.93,
+        "type": "Hardware"
+    }
+]
