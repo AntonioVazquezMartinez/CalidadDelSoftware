@@ -1,5 +1,5 @@
 """
-Script para las el unit test de el sistema de reservaciones.
+Script para las pruebas de unit test de el sistema de reservaciones.
 """
 
 import unittest
@@ -166,3 +166,4 @@ class TestHotelReservationSystem(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
