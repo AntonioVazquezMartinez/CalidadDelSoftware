@@ -17,7 +17,7 @@ class FileManager:
         if not os.path.exists(filename):
             return {}
         try:
-            with open(filename, 'r', encoding='utf-8') as file:
+            with open(filename, 'r') as file:
                 return json.load(file)
         except json.JSONDecodeError as error:
             print(f"Error: Datos inválidos en {filename}. Detalles: {error}")
@@ -30,7 +30,7 @@ class FileManager:
     def save_data(filename, data):
         """Guarda un diccionario de datos en un archivo JSON."""
         try:
-            with open(filename, 'w', encoding='utf-8') as file:
+            with open(filename, 'w') as file:
                 json.dump(data, file, indent=4)
         except IOError as error:
             print(f"Error al guardar en {filename}: {error}")
@@ -216,3 +216,4 @@ class Reservation:
         FileManager.save_data(cls.FILE_NAME, reservations)
         print(f"Reservación {reservation_id} cancelada con éxito.")
         return True
+
